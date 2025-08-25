@@ -1,0 +1,9 @@
+movie-recommendation-system/
+│── data/
+│   └── movies.csv           # Dataset (movie titles, genres, ratings, etc.)
+│── notebooks/
+│   └── MovieRecommender.ipynb
+│── src/
+│   └── recommender.py
+│── README.md
+│── requirements.txt
